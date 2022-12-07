@@ -490,3 +490,16 @@ body {
     margin-top: 0px;
   }
 }
+
+.flex{
+  display:flex;
+  justify-content: space-between;
+}
+
+.w-25{
+  width:25%;
+}
+
+.w-70{
+  width:70%;
+}
